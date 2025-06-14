@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Todo App and UserBook",
-    "slug": "Todo App and UserBook",
+    "name": "Smart Groceries and UserBook",
+    "slug": "Smart Groceries and UserBook",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/smartphone.webp",
-    "scheme": "Todo App and UserBook",
+    "scheme": "Smart Groceries and UserBook",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
